@@ -1,0 +1,3 @@
+Regarding the JS HW:
+
+Point No. 15, more clarification is needed regarding the results of the arrays.
